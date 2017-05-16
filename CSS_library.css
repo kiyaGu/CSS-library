@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+.btn {
+    min-height: 48px;
+    min-width: 48px;
+    border-radius: 10px;
+}
+
+.btn-sm {
+    height: 48px;
+    width: 48px;
+}
+
+.btn-md {
+    height: 68px;
+    width: 68px;
+}
+
+.btn-lg {
+    height: 88px;
+    width: 88px;
+}
+
+.btn-block {
+    height: 100%;
+    width: 100%;
+}
